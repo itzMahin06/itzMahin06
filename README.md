@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blogging and studying
 - 🌱 I’m currently learning Blogging
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me__ mail: m.mahin728@yahoo.com
+- 📫 How to reach me__ mail: info@itzmahin.my.id
 
 <!---
 itzMahin06/itzMahin06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
